@@ -14,7 +14,6 @@ import android.os.Handler
 import android.os.Looper
 import android.telephony.CellIdentityLte
 import android.telephony.CellIdentityNr
-import android.telephony.CellInfo
 import android.telephony.CellInfoLte
 import android.telephony.CellInfoNr
 import android.telephony.TelephonyManager
